@@ -1,0 +1,185 @@
+.trilha-dio{
+  height: 600px;
+}
+
+.trilha-dio {
+  background: linear-gradient(rgba(0,0,0,.6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("../../img/image\ 2.png") no-repeat;
+  background-size: cover;
+  border-bottom: 1px solid #1472B7;
+}
+
+.trilha-dio h1{
+  margin-top: 1.3rem;
+  color: transparent;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 2.9rem;
+  text-transform: uppercase;
+  color: #1472B7;
+  
+}
+
+.trilha-dio p{
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.3;
+  padding-top: 1.3rem;
+  padding-bottom: 1rem;
+  color: #fff;
+}
+
+.trilha-img{
+  width: 260px;
+  height: 260px;
+  background-color:rgba(0, 0, 0, 0.2);
+  margin: auto;
+  padding: 16px;
+  border-radius: 50%;
+}
+
+.trilha-img img{
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.btn{
+  padding-top: 10px;
+  text-align: center;
+}
+
+.btn a{
+  display: inline-block;
+  padding: 15px 40px;
+  color: #1472B7;
+  border: 4px solid #1472B7;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 1rem;
+  line-height: 1.1;
+  letter-spacing: 21%;
+}
+
+.btn a:hover{
+  color: #1b9eff;
+  border: 4px solid #1b9eff;
+}
+
+/* Módulos de aulas */
+
+section{
+  margin: 100px auto;
+}
+
+#conteudo-modulo{
+  width: 800px;
+  text-align: center;
+  margin-top: 118px;
+}
+
+.conteudo h2{
+  font-size: 2rem;
+  color: #33a9db;
+  text-align: center;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.conteudo p{
+  color: #fff;
+  font-weight: 400;
+}
+
+.modula-lista{
+  margin-top: 30px;
+  margin-bottom: 90px;
+
+}
+
+.modula-lista span{
+  color: #33a9db;
+}
+
+.modula-lista .modula{
+  color: #fff;
+  width: 530px;
+  margin: 0 auto 24px;
+  border: 1px solid #33a9db;
+  background-color: #252525;
+  padding: 16px;
+  border-radius: 100px;
+  box-shadow: inset -5px 6px 5px rgba(0 0 0 / 70%);
+}
+
+.mundo{
+  height: 560px;
+  background-image: url("../../img/qw.png");;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  border-top: 1px solid #33a9db;
+  border-bottom: 1px solid #33a9db;
+  padding: 200px;
+}
+
+.mundo p{
+  color: #fff;
+  font-weight: 900;
+  font-size: 2.5rem;
+  max-width: 250px;
+  text-shadow: 3px 2px #33a9db;
+}
+
+/* EVOLUA E ENCARE NOVOS DESAFIOS PROFISSIONAIS
+ */
+
+.evolucao-profissional{
+  text-align: center;
+  width: 800px;
+}
+
+.evolucao-profissional h2{
+  font-size: 2rem;
+  color: #33a9db;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+  letter-spacing: 4px;
+}
+
+.evolucao-profissional img{
+  margin: 32px auto;
+}
+
+.evolucao-profissional p{
+  color: #fff;
+  font-weight: 400;
+}
+
+/* Rodapé da página */
+
+footer{
+  text-align: center;
+  background: linear-gradient(rgba(50, 168, 219, .0) rgba(50,168, 219, .2));
+  border-top: 1px solid #33a9db;
+}
+
+footer img{
+  padding-top: 80px;
+  margin: 0 auto;
+}
+
+
+footer span{
+  color: #33a9db;
+  font-weight: 700;
+}
+
+footer p{
+  color: #fff;
+  font-weight: 400;
+  padding-top: 4px;
+  padding-bottom: 50px;
+}
